@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F77642&random=false&width=435&lines=Hi!+I'm+Dennis+;I+am+a+Full-Stack+Developer!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7A358&random=false&width=435&lines=%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+Hello%2C+I+am+Dennis!;%F0%9F%A7%99%E2%80%8D%E2%99%82%EF%B8%8F+I+am+a+Full-Stack+Developer!)](https://git.io/typing-svg)
 <!--
 **dennisbtw/dennisbtw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
