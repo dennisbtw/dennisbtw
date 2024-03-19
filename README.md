@@ -1,5 +1,4 @@
-### Hi there 👋
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F77642&random=false&width=435&lines=Hi!+I'm+Dennis+;I+am+a+Full-Stack+Developer!)](https://git.io/typing-svg)
 <!--
 **dennisbtw/dennisbtw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
